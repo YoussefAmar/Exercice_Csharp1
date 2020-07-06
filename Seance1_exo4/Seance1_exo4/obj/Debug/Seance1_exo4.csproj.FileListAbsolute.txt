@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\bin\Debug\Seance1_exo4.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\bin\Debug\Seance1_exo4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\bin\Debug\Seance1_exo4.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\obj\Debug\Seance1_exo4.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\obj\Debug\Seance1_exo4.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\obj\Debug\Seance1_exo4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance1_exo4\Seance1_exo4\obj\Debug\Seance1_exo4.pdb
